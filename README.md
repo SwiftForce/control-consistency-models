@@ -1,2 +1,2 @@
-# control-consistency-models
- 
+# CCM: Adding Conditional Controls to Text-to-Image Consistency Models
+code will be available soon ...
